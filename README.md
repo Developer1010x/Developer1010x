@@ -107,11 +107,11 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer1010x&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer1010x&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=developer1010x&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer1010x&" alt="GitHub Streak" />
