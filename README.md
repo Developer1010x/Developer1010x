@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/s-prajwall-n-1a82b7262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s-prajwall-n-1a82b7262/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/s-prajwall-n-1a82b7262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-prajwall-n-1a82b7262/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prajwallspambox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajwallspambox" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fey3vm7irp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fey3vm7irp" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@prajwall1010x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prajwall1010x" height="30" width="40" /></a>
