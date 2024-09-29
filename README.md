@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Linux Internals**
 
-- 👨‍💻 All of my projects are available at [https://developer1010x.github.io/PORTFOLIO/](https://developer1010x.github.io/PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [https://developer1010x.github.io/PORTFOLIO/](https://developer1010x.github.io/S_Prajwall_Narayana/)
 
 - 💬 Ask me about **Python, Computer Vision**
 
