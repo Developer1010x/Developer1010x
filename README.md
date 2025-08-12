@@ -1,12 +1,12 @@
 # Hi 👋, I'm S Prajwall Narayana  
-**Frontend Developer | Python & Computer Vision Enthusiast | IC Engine Lover**  
+**Full Stack Developer | Python & Computer Vision Enthusiast | IC Engine ❤️**  
 
-🌍 From India | 📧 **prajwallspambox@gmail.com**  
+🌍 From India | 📧 **prajwallnarayana@gmail.com**  
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning **Linux Internals**  
+- 🌱 Currently learning ** LLMs and its applications**  
 - 👨‍💻 All my projects: [My Portfolio](https://developer1010x.github.io/S_Prajwall_Narayana/)  
 - 💬 Ask me about **Python, Computer Vision**  
 - ⚡ Fun fact: I love **IC engines**  
