@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm **S Prajwall Narayana**  
-💻 *Frontend Developer* | 🐍 *Python & Computer Vision Enthusiast* | 🔧 *IC Engine *  
+💻 *Frontend Developer* | 🐍 *Python & Computer Vision Enthusiast* | 🔧 *IC Engine*  
 
 📍 **India** | 📧 **prajwallspambox@gmail.com**  
 
