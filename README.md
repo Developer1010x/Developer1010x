@@ -40,10 +40,9 @@
 ---
 
 ## 📊 GitHub Stats  
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer1010x&layout=compact&theme=radical) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer1010x&show_icons=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer1010x&layout=compact&theme=radical) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer1010x&show_icons=true&theme=radical)|
 | --- | --- |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developer1010x&theme=radical)
 
 ---
 
