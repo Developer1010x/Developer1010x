@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm **S Prajwall Narayana**  
-💻 *Frontend Developer* | 🐍 *Python & Computer Vision Enthusiast* | 🔧 *IC Engine*  
+💻 *Backend Developer, Devops* | 🐍 *Python & Computer Vision Enthusiast* | 🔧 *IC Engine*  
 
 📍 **India** | 📧 **sprajwalln.cs21@rvce.edu.in.com**  
 
@@ -41,17 +41,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Highlights  
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer1010x&layout=compact&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer1010x&show_icons=true&theme=tokyonight) |
-| --- | --- |
-
----
-
-## 🏆 Achievements  
-![trophy](https://github-profile-trophy.vercel.app/?username=developer1010x&theme=dracula&margin-w=15&margin-h=15)
 
 ---
 
