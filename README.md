@@ -1,7 +1,5 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=200&section=header&text=S%20Prajwall%20Narayana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Agentic%20LLM%20%26%20DevOps&descAlignY=58&descSize=18" alt="header" />
-</p>
+<h1 align="center">Hi, I'm S Prajwall Narayana 👋</h1>
+<p align="center"><em>Software Development Engineer · Backend · Agentic LLM &amp; DevOps</em></p>
 
 <!-- ANIMATED TAGLINE -->
 <p align="center">
@@ -66,6 +64,3 @@ I build and operate the backend services and APIs behind production ERP automati
 <p align="center">
   💡 <em>"Code is like humor. When you have to explain it, it's bad."</em>
 </p>
-
-<!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=120&section=footer" alt="footer" />
