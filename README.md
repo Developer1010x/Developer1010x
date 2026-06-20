@@ -64,10 +64,6 @@ I build and operate the backend services and APIs behind production ERP automati
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Developer1010x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
-</p>
-
-<p align="center">
   💡 <em>"Code is like humor. When you have to explain it, it's bad."</em>
 </p>
 
