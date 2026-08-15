@@ -42,19 +42,14 @@ The two halves are one job. The engineer who ships the agent workflow is the eng
 | **ResNet50 Plant Disease** | Empirical hyperparameter study, IEEE Xplore. | [Paper](https://ieeexplore.ieee.org/document/10816835) |
 | **Web-Server Controlled Rover** | YOLOv3 + 4-DOF arm + ESP32, IEEE Xplore. | [Paper](https://ieeexplore.ieee.org/document/10816816) |
 
-## GitHub Stats
+## Where to start
 
-<!-- These cards render on shared community instances, not on anything I control.
-     github-readme-stats.vercel.app is frequently over its Vercel quota and answers 503,
-     which GitHub shows as a broken image. The durable fix is to deploy your own instance
-     of https://github.com/anuraghazra/github-readme-stats to Vercel (free) and point the
-     two URLs below at it; cache_seconds only reduces how often the shared one is hit. -->
+| If you want to see | Look at |
+| --- | --- |
+| Safety-critical LLM work | **[Arogya-Sathi](https://github.com/Developer1010x/Arogya-Sathi)** — a deterministic rule layer the model cannot override, gated by a 62-case eval harness that runs as a CI merge gate |
+| Systems and protocol work | **[openplay](https://github.com/Developer1010x/openplay)** — AirPlay HAP pairing, Miracast WFD and Wi-Fi Direct, written from scratch in Rust |
+| Something you can install today | **[Audier](https://github.com/Developer1010x/audiobook-reader/releases/tag/v1.0.0)** — AppImage, .deb and tarball, 202 tests, runs fully offline |
+| Tooling with a real linter | **[agentic-devops](https://github.com/Developer1010x/agentic-devops)** — stable rule IDs, SARIF output, usable as a merge gate |
+| Open-source contribution | **[koala73/worldmonitor#5459](https://github.com/koala73/worldmonitor/pull/5459)** — merged into a 330k-line TypeScript codebase, +892 / -39 across 37 files |
 
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Developer1010x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer1010x&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=86400" alt="Top languages" />
-</p>
-
-<!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=120&section=footer" alt="footer" />
