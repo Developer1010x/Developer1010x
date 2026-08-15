@@ -19,7 +19,7 @@
 
 AI Engineer on the founding team at Colligence Research, working across both halves of the same system.
 
-I build the product: multi-agent and LLM pipelines over MCP, a code-generation service, and the backend APIs behind them. I also own the platform it runs on, having established the DevOps and SRE function from scratch and led it since — CI/CD, infrastructure-as-code with OpenTofu and Ansible on Linode, observability, alerting, incident runbooks and authentication.
+I build the product: multi-agent and LLM pipelines over MCP, a code-generation service, and the backend APIs behind them. I also own the platform it runs on, having established the DevOps and SRE function from scratch and led it since, CI/CD, infrastructure-as-code with OpenTofu and Ansible on Linode, observability, alerting, incident runbooks and authentication.
 
 The two halves are one job. The engineer who ships the agent workflow is the engineer who carries the pager for it.
 
@@ -36,11 +36,11 @@ The two halves are one job. The engineer who ships the agent workflow is the eng
 
 | Project | What it actually does | Links |
 |---------|-----------------------|-------|
-| **Arogya-Sathi** | Multilingual LLM healthcare platform. Safety-critical routing is gated by a 62-case labelled evaluation harness that runs as a CI merge gate — crisis detection recall 1.00, precision 0.93. LangGraph report pipeline with multi-model routing. | [Code](https://github.com/Developer1010x/Arogya-Sathi) |
+| **Arogya-Sathi** | Multilingual LLM healthcare platform. Safety-critical routing is gated by a 62-case labelled evaluation harness that runs as a CI merge gate, crisis detection recall 1.00, precision 0.93. LangGraph report pipeline with multi-model routing. | [Code](https://github.com/Developer1010x/Arogya-Sathi) |
 | **agentic-devops** | AI-powered CI/CD pipeline generator and monitor for GitHub, GitLab and Gitea. | [Code](https://github.com/Developer1010x/agentic-devops) |
-| **pybridge.ai** | Routes AI access from your phone — WhatsApp, Telegram, email and iMessage to Claude, OpenAI or Ollama. Docker plus a web control panel. | [Code](https://github.com/Developer1010x/pybridge.ai) |
-| **ResNet50 Plant Disease** | Empirical hyperparameter study — IEEE Xplore. | [Paper](https://ieeexplore.ieee.org/document/10816835) |
-| **Web-Server Controlled Rover** | YOLOv3 + 4-DOF arm + ESP32 — IEEE Xplore. | [Paper](https://ieeexplore.ieee.org/document/10816816) |
+| **pybridge.ai** | Routes AI access from your phone, WhatsApp, Telegram, email and iMessage to Claude, OpenAI or Ollama. Docker plus a web control panel. | [Code](https://github.com/Developer1010x/pybridge.ai) |
+| **ResNet50 Plant Disease** | Empirical hyperparameter study, IEEE Xplore. | [Paper](https://ieeexplore.ieee.org/document/10816835) |
+| **Web-Server Controlled Rover** | YOLOv3 + 4-DOF arm + ESP32, IEEE Xplore. | [Paper](https://ieeexplore.ieee.org/document/10816816) |
 
 ## GitHub Stats
 
