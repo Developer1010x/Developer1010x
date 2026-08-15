@@ -24,7 +24,7 @@ I build the product: multi-agent and LLM pipelines over MCP, a code-generation s
 The two halves are one job. The engineer who ships the agent workflow is the engineer who carries the pager for it.
 
 - 📄 Published three times in peer-reviewed venues (2× IEEE, 1× Springer), with two further papers under review.
-- 🎓 B.E. Computer Science, **RVCE (VTU)**, Bengaluru (2021–2025). First Class, 66.6%.
+- 🎓 B.E. Computer Science, **RVCE (VTU)**, Bengaluru (2021–2025).
 
 ## Tech
 
@@ -44,9 +44,16 @@ The two halves are one job. The engineer who ships the agent workflow is the eng
 
 ## GitHub Stats
 
+<!-- These cards render on shared community instances, not on anything I control.
+     github-readme-stats.vercel.app is frequently over its Vercel quota and answers 503,
+     which GitHub shows as a broken image. The durable fix is to deploy your own instance
+     of https://github.com/anuraghazra/github-readme-stats to Vercel (free) and point the
+     two URLs below at it; cache_seconds only reduces how often the shared one is hit. -->
+
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Developer1010x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer1010x&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Developer1010x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer1010x&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <!-- FOOTER BANNER -->
