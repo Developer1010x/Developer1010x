@@ -1,22 +1,30 @@
+<div align="center">
+
+<img src="assets/avatar.jpg" alt="S. Prajwall Narayana's avatar" width="112" height="112">
+
 # S. Prajwall Narayana
 
 **AI Engineer · AI Systems · Backend & Infrastructure** · Bengaluru, India
 
-I build AI systems and run what I ship.
+*I build AI systems and run what I ship.*
+
+<a href="https://sprajwallnarayana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B9F36C?style=for-the-badge&logo=vercel&logoColor=0A0F14" alt="Portfolio"></a> <a href="https://sprajwallnarayana.vercel.app/#research"><img src="https://img.shields.io/badge/Research-8FB7FF?style=for-the-badge&logo=googlescholar&logoColor=0A0F14" alt="Research and publications"></a> <a href="mailto:prajwallspambox@gmail.com"><img src="https://img.shields.io/badge/Email-F6F7F3?style=for-the-badge&logo=gmail&logoColor=0A0F14" alt="Email"></a>
+
+<img src="https://skillicons.dev/icons?i=py,rust,cpp,ts,fastapi,postgres,docker,ansible,linux,pytorch,githubactions,git&theme=dark" alt="Python, Rust, C++, TypeScript, FastAPI, PostgreSQL, Docker, Ansible, Linux, PyTorch, GitHub Actions, Git">
+
+</div>
 
 My work spans multi-agent LLM systems, MCP orchestration, backend engineering and production infrastructure, from CI/CD and infrastructure as code to observability and incident response. I'm currently an AI Engineer at Colligence Research, working across product engineering and platform reliability.
-
-[Portfolio](https://sprajwallnarayana.vercel.app) · [Research](https://sprajwallnarayana.vercel.app/#research) · [Email](mailto:prajwallspambox@gmail.com)
 
 ## Start here
 
 | If you want to see | Look at |
 | --- | --- |
-| Systems and protocol work | **[openplay](https://github.com/Developer1010x/openplay)**: screen casting written from scratch in Rust. Discovery, Linux screen capture and TLS pinning work today; the WebRTC and Miracast casting paths are wired end to end with in-process tests but not yet confirmed between two real machines |
-| Applied research with code | **[deepfake-detector](https://github.com/Developer1010x/deepfake-detector)**: label-free multimodal detection on hand-written NumPy DSP (Haar DWT, DCT-II, STFT, LBP, Benford), with calibrated outputs and explanation maps |
-| Software you can install today | **[Audier](https://github.com/Developer1010x/audiobook-reader/releases/tag/v1.0.0)**: a private, local-first reader and audiobook player for Linux, v1.0.0 as AppImage, .deb and tarball |
-| AI integrations | **[pybridge.ai](https://github.com/Developer1010x/pybridge.ai)**: routes WhatsApp, Telegram, email and iMessage to Claude, OpenAI or Ollama |
-| Developer tooling | **[universal-converter](https://github.com/Developer1010x/universal-converter)** (multi-hop file conversion) · **[cyclomatic-complexity-plugin](https://github.com/Developer1010x/cyclomatic-complexity-plugin)** (Clang plugin, per-function complexity) |
+| Systems and protocol work | **[openplay](https://github.com/Developer1010x/openplay)** [![CI](https://github.com/Developer1010x/openplay/actions/workflows/ci.yml/badge.svg)](https://github.com/Developer1010x/openplay/actions/workflows/ci.yml): screen casting written from scratch in Rust. Discovery, Linux screen capture and TLS pinning work today; the WebRTC and Miracast casting paths are wired end to end with in-process tests but not yet confirmed between two real machines |
+| Applied research with code | **[deepfake-detector](https://github.com/Developer1010x/deepfake-detector)** [![CI](https://github.com/Developer1010x/deepfake-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/Developer1010x/deepfake-detector/actions/workflows/ci.yml): label-free multimodal detection on hand-written NumPy DSP (Haar DWT, DCT-II, STFT, LBP, Benford), with calibrated outputs and explanation maps |
+| Software you can install today | **[Audier](https://github.com/Developer1010x/audiobook-reader/releases/tag/v1.0.0)** [![CI](https://github.com/Developer1010x/audiobook-reader/actions/workflows/ci.yml/badge.svg)](https://github.com/Developer1010x/audiobook-reader/actions/workflows/ci.yml): a private, local-first reader and audiobook player for Linux, v1.0.0 as AppImage, .deb and tarball |
+| AI integrations | **[pybridge.ai](https://github.com/Developer1010x/pybridge.ai)** [![CI](https://github.com/Developer1010x/pybridge.ai/actions/workflows/ci.yml/badge.svg)](https://github.com/Developer1010x/pybridge.ai/actions/workflows/ci.yml): routes WhatsApp, Telegram, email and iMessage to Claude, OpenAI or Ollama |
+| Developer tooling | **[universal-converter](https://github.com/Developer1010x/universal-converter)** [![CI](https://github.com/Developer1010x/universal-converter/actions/workflows/tests.yml/badge.svg)](https://github.com/Developer1010x/universal-converter/actions/workflows/tests.yml) (multi-hop file conversion) · **[cyclomatic-complexity-plugin](https://github.com/Developer1010x/cyclomatic-complexity-plugin)** (Clang plugin, per-function complexity) |
 
 ## How I work
 
